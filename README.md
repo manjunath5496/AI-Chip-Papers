@@ -223,7 +223,7 @@ for DRAM based In situ Accelerator</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Chip-Papers/blob/master/chip(106).pdf" style="text-decoration:none;">Simba: Scaling Deep-Learning Inference with
 Multi-Chip-Module-Based Architecture</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Chip-Papers/blob/master/chip(107).pdf" style="text-decoration:none;">Simba: Scaling Deep-learning Inference With Multi-chip-module-based Architecture</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Chip-Papers/blob/master/chip(107).pdf" style="text-decoration:none;">AI Chips: What They Are and Why They Matter</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Chip-Papers/blob/master/chip(108).pdf" style="text-decoration:none;">Stripes: Bit-Serial Deep Neural Network Computing</a></li> 
